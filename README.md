@@ -19,10 +19,3 @@ Processo de criação foi bem de boa, em todos os quesitos, todos as IA's ajudam
 ## 🚀 Resultados
 para apresentar o podcast(video demonstrativo) irei deixar um link do youtube (https://youtu.be/P1wS1k7xQec)
 
-
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
